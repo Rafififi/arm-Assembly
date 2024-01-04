@@ -12,4 +12,4 @@ _start:
 
 .section .data
 	message:
-	.ascii "i do the do and poo the loo\n"
+	.ascii "I do the do and poo the loo.\n"
